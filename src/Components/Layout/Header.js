@@ -29,7 +29,7 @@ const Header = () => {
         <div className="container-fluid">
           <Link className="navbar-brand" to={"/"}>
             <span className="fw-bold">
-              <em className="text-danger">Asia Shop </em>
+              <em className="text-danger">BoB-G Shop </em>
             </span>
             <LocalMallIcon color="error" />
           </Link>

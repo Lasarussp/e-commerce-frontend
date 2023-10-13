@@ -44,7 +44,7 @@ const Footer = () => {
           Privacy Policy
         </Link>
       </p>
-      <h6 className="text-center">&copy; 2022-2023 AsiaShop.in</h6>
+      <h6 className="text-center">&copy; 2022-2023 BoB G Shop.in</h6>
     </div>
   );
 };
